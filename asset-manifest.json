@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d84c6867.css",
+    "main.js": "/static/js/main.2b6d3a04.js",
+    "static/js/787.016dd43c.chunk.js": "/static/js/787.016dd43c.chunk.js",
+    "static/media/pencil.gif": "/static/media/pencil.69e2d953a5593117643a.gif",
+    "static/media/clapboard.gif": "/static/media/clapboard.7d318674ebd92274df66.gif",
+    "static/media/pic_4.jpg": "/static/media/pic_4.0db6e3c9a90b1379e61e.jpg",
+    "static/media/pic_3.jpg": "/static/media/pic_3.9fae29e6b77b179d1aae.jpg",
+    "static/media/kashmir_2.jpg": "/static/media/kashmir_2.35f1bdf73dd151c8fbc0.jpg",
+    "static/media/pic_2.jpg": "/static/media/pic_2.70e804a48ccd616219fe.jpg",
+    "static/media/kashmir_3.jpg": "/static/media/kashmir_3.c0918393f0de0994881a.jpg",
+    "static/media/pic_1.jpeg": "/static/media/pic_1.b46bd96bd7ab64bc02d1.jpeg",
+    "static/media/rishikesh.jpg": "/static/media/rishikesh.9e9ff7d0f3481a847beb.jpg",
+    "static/media/soumya.jpg": "/static/media/soumya.9012767b7fb946fb72fa.jpg",
+    "static/media/cover.jpg": "/static/media/cover.4d539b1b73ebedd5f301.jpg",
+    "static/media/plane.png": "/static/media/plane.870efaf5b3700e9f696e.png",
+    "index.html": "/index.html",
+    "main.d84c6867.css.map": "/static/css/main.d84c6867.css.map",
+    "main.2b6d3a04.js.map": "/static/js/main.2b6d3a04.js.map",
+    "787.016dd43c.chunk.js.map": "/static/js/787.016dd43c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d84c6867.css",
+    "static/js/main.2b6d3a04.js"
+  ]
+}
