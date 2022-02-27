@@ -65,6 +65,7 @@ const SkillScreen = () => {
 
             <div className="skill_3" onClick={showBlog}>
               <div className="travel" id='travel' >
+               
                <h1>I am also a Travel Vlogger</h1>
                   <p>Let's Discover India in</p>
                   <p>one Click!!</p>
