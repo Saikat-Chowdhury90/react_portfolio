@@ -1,14 +1,13 @@
 import React, { useState } from 'react'
-import { Link, useNavigate } from 'react-router-dom';
-import Navbar from '../components/Navbar'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { useNavigate } from 'react-router-dom';
+
 import '../styles/SkillScreen.css';
 import Pencil from '../images/pencil.gif';
 import Clapboard from '../images/clapboard.gif';
 import Writings from '../components/Writings';
-import plane from '../images/plane.png';
+
 import Studio from '../components/Studio';
-import BlogScreen from './BlogScreen';
+
 const SkillScreen = () => {
     const [books, setbooks] = useState(false);
     const [movies, setmovies] = useState(false);
@@ -60,7 +59,7 @@ const SkillScreen = () => {
              
              <div className="director" id='direct' onClick={showMovie}>
                <h1 style={{color:'white'}}>So Click me to Start the show...</h1>
-                <img className='clapboard' src={Clapboard}  />
+                <img className='clapboard' src={Clapboard} alt="clap"  />
              </div>
             </div>
 

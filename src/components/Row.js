@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React from 'react'
 import '../styles/Row.css'
 function Row ({title,source}){
     
@@ -10,7 +10,7 @@ function Row ({title,source}){
             <div className="row-posters">
             {
                 
-                 <img   src={source}  />
+                 <img   src={source} alt="row" />
             
             }
             </div>
