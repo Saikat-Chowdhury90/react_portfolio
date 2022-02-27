@@ -8,7 +8,7 @@ const HomeScreen = () => {
 
   return (
    <>
-    
+    <Navbar />
     
     <div className="pic">
         
