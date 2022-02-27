@@ -1,0 +1,11 @@
+.style{
+    height: 500px;
+    width: 500px;
+}
+@media screen and (max-width:425px) 
+{
+    .style {
+        height: 200px;
+        width: 200px;
+    }   
+}

@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Shizuru&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+
+
+.lists{
+
+    position: absolute;
+    left: 15%;
+    
+    
+}
+
+.nav-item{
+    padding: 90px;
+    padding-bottom: 0 !important;
+    padding-top: 1px !important;
+}
+.navbar-brand{
+    font-family: 'Orbitron', sans-serif;
+    font-weight: bolder;
+    font-size: 1.7rem;
+}
+
+@media screen and (max-width:425px) 
+{
+    .nav-item{
+        background-color: black;
+        
+    }  
+    .lists{
+        background-color: black;
+        position: absolute;
+        left: 0;
+        width: 100%;
+    }  
+}

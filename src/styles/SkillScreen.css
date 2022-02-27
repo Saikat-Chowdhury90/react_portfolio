@@ -1,0 +1,128 @@
+.skill{
+ 
+    margin-top: 70px;
+    cursor: pointer;
+}
+.skill_2{
+    
+    margin-top: 0px;
+    cursor: pointer;
+    background-color: black;
+    width: 100vw;
+}
+.skill_3{
+    
+    margin-top: 0px;
+    cursor: pointer;
+  
+}
+.lib{
+    height: 500px;
+    margin-top: 70px;
+    cursor: pointer;
+}
+.writing{
+    height: 500px;
+    margin-top: 70px;
+    cursor: pointer;
+    
+}
+.writing h1{
+    color: black;
+    margin-top: 6%;
+    margin-right: 910px;
+}
+.pencil{
+    width: 400px;
+    height: 360px;
+    cursor: pointer;
+}
+.books{
+    height: 500px;
+    margin-top: 70px;
+    cursor: pointer;
+}
+.book{
+    width: 200px;
+    height: 300px;
+    background-color: black;
+    
+}
+
+.director h1{
+    color: black;
+    margin-top: 7%;
+    margin-right: 915px;
+    width: 590px;
+}
+
+.travel h1{
+    color: black;
+   
+    margin-right: 900px;
+    
+}
+.travel p{
+    margin-top: 10px;
+    font-size: 3rem;
+}
+.clapboard{
+    margin-top: -20px;
+    padding-bottom: 90px;
+}
+
+@media screen and (max-width:425px) 
+{
+    .writing h1{
+            width: 100%;
+            margin-left: 20%;
+    } 
+    .pencil{
+        
+        margin-left: 18%;
+    }
+    .click_h1{
+        width: 100%;
+        margin-left: 20%;
+    }
+    .skill_2{
+        margin-right: 0;
+        padding: 0;
+        background-color: white;
+        
+        width: 100%;
+    } 
+    .director{
+        
+        width: 100%;
+       
+    }
+    .director h1{
+        margin-right: 0;
+        padding-right: 0;
+        width: 100%;
+        margin-left: 15%;
+        color: black !important;
+        background-color: white;
+    } 
+    .clapboard{
+     
+        
+        height: 350px;
+        margin-top: 4%;
+        margin-left: 28%;
+        margin-right: 0;
+        width: 250px;
+        
+    }
+    .travel h1{
+        width: 100%;
+        margin-left: 15%;
+    }
+    .travel p{
+        font-size: 40px;
+        margin-left: 33%;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+}

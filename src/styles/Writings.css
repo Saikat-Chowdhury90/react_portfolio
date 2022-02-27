@@ -1,0 +1,12 @@
+.arrange{
+    display: flex;
+    justify-content: space-around;
+}
+@media screen and (max-width:425px) {
+    .arrange{
+        
+        justify-content: space-around;
+        width: 100%;
+    }
+
+}

@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&display=swap');
+
+
+.heading{
+    position: absolute;
+    color: white;
+    top: 50%;
+    left: 2%;
+}
+.heading h1{
+    font-size: 4rem;
+    font-family: 'BhuTuka Expanded One', cursive;
+    font-weight: 1000;
+}
+
+
+@media screen and (max-width:425px) 
+{
+        
+}

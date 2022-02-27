@@ -1,0 +1,7 @@
+
+@media screen and (max-width:425px) 
+{
+    .d-block{
+       width: 100vw;
+    }
+}
