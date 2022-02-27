@@ -2,7 +2,7 @@ import React, { useEffect } from 'react'
 import '../styles/nav.css';
 import { Link,useNavigate,useLocation } from 'react-router-dom';
 const Navbar = () => {
-  const navigate = useNavigate();
+
   let location = useLocation();
   useEffect(() => {
     console.log(location)

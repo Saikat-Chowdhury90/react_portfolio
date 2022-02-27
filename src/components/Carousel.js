@@ -1,8 +1,8 @@
 import React from 'react'
 import '../styles/Carousel.css'
-import img_1 from '../images/kashmir_2.jpg'
-import img_2 from '../images/kashmir_3.jpg'
-import img_3 from '../images/rishikesh.jpg'
+import img_1 from '../images/kashmir_2.jpg';
+import img_2 from '../images/kashmir_3.jpg';
+import img_3 from '../images/rishikesh.jpg';
 const Carousel = () => {
   return (
     <>
