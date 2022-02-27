@@ -1,4 +1,4 @@
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+
 import React from 'react'
 import '../styles/ContactScreen.css'
 import twitter from '../images/twitter-brands.svg'
