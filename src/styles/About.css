@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+.about-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10%;
+    min-height: fit-content;
+    background-color: white;
+    
+}
+.about-parent {
+    display: flex;
+    align-items: center;
+    color: black;
+  }
+  .title h1{
+    font-family: 'Typewriter';
+    font-weight: 700;
+    color: rgb(10, 10, 10);
+  }
+
+  .about-para{
+    
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      align-content: center;
+      text-align: justify;
+      padding: 10px 40px 0px 40px;
+  }
+  .para{
+   
+    font-weight: 500;
+    font-size: 20px;
+  }

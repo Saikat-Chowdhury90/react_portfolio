@@ -1,4 +1,7 @@
-
+@font-face {
+  font-family:'Typewriter';
+  src: url('./fonts/Typewriter-Regular.otf');
+}
 body {
   margin: 0;
   padding: 0;
